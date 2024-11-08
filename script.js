@@ -1,5 +1,4 @@
-const apiKey =
-  "live_2titjByn291sT9XgC7Q4qDv8n40x8Ndrlm2PhkDCH5GfOn5wD3bvTQXPIUt87PHh";
+const apiKey = "live_2titjByn291sT9XgC7Q4qDv8n40x8Ndrlm2PhkDCH5GfOn5wD3bvTQXPIUt87PHh";
 const apiUrl = "https://api.thedogapi.com/v1/images/search";
 const breedUrl = "https://api.thedogapi.com/v1/breeds";
 
